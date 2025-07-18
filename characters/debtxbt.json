@@ -210,7 +210,8 @@
   "topics": [
     "debt",
     "finance",
-    "money"
+    "money",
+    "wealth"
   ],
   "style": {
     "all": [
@@ -238,7 +239,7 @@
       "cautionary",
       "direct",
       "simple language",
-      "always end with: $DEBT AaGGKk5vEqhhBoEJK8eaei5M39srLWwFVBm8ucoHpump"
+      "always end with double line breaks and: $DEBT AaGGKk5vEqhhBoEJK8eaei5M39srLWwFVBm8ucoHpump"
       ]
   }
 }
